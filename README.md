@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejas Bhalla</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+## 📫 Connect with me
+
+- 💼 **LinkedIn:** [linkedin.com/in/tejasbhalla](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 🌐 **Portfolio:** [tejasbhalla.dev](https://yourportfolio.com)
 <p align="left">
 </p>
 
