@@ -3,8 +3,8 @@
 
 ## 📫 Connect with me
 
-- 💼 **LinkedIn:** [linkedin.com/in/tejasbhalla](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tejasbhalla](https://www.linkedin.com/in/tejas-bhalla-70aba9358/)
+- 📧 **Email:** [tejasbhalla07@gmail.com](mailto:tejasbhalla07@gmail.com)
 - 🌐 **Portfolio:** [tejasbhalla.dev](https://yourportfolio.com)
 <p align="left">
 </p>
