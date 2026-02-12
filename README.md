@@ -5,7 +5,7 @@
 
 - 💼 **LinkedIn:** [linkedin.com/in/tejasbhalla](https://www.linkedin.com/in/tejas-bhalla-70aba9358/)
 - 📧 **Email:** [tejasbhalla07@gmail.com](mailto:tejasbhalla07@gmail.com)
-- 🌐 **Portfolio:** [tejasbhalla.dev](https://yourportfolio.com)
+- 🌐 **Portfolio:** [tejasbhalla.dev](https://tejasbhalla.vercel.app)
 <p align="left">
 </p>
 
