@@ -10,7 +10,8 @@
 </p>
 
 # 💫 About Me:
-<h5> AI-focused full-stack developer building intelligent systems, scalable applications, and real-world products.
+<h5> 
+AI-focused full-stack developer building intelligent systems, scalable applications, and real-world products.
 
 
 I spend most of my time designing and developing AI-powered applications, working across backend systems, frontend interfaces, and machine learning pipelines. My work focuses on practical implementations of LLMs, semantic search, and agent-based workflows to solve complex problems efficiently.
