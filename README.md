@@ -10,15 +10,13 @@
 </p>
 
 # 💫 About Me:
-<h5> 
 AI-focused full-stack developer building intelligent systems, scalable applications, and real-world products.
-
 
 I spend most of my time designing and developing AI-powered applications, working across backend systems, frontend interfaces, and machine learning pipelines. My work focuses on practical implementations of LLMs, semantic search, and agent-based workflows to solve complex problems efficiently.
 
 My projects revolve around building production-ready systems such as AI research assistants, real-time applications, and scalable full-stack platforms using modern technologies like Node.js, React, Flutter, and Python.
 
-When I’m not building, I explore advanced AI concepts, system design, and optimization techniques, continuously refining how intelligent systems can be made more reliable, efficient, and useful. </h5>
+When I’m not building, I explore advanced AI concepts, system design, and optimization techniques, continuously refining how intelligent systems can be made more reliable, efficient, and useful. 
 
 
 # 💻 Tech Stack:
