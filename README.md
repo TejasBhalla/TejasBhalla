@@ -10,7 +10,13 @@
 </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **AI-powered applications & full-stack systems**<br>- 👯 I’m looking to collaborate on **AI, Open Source, and scalable backend projects**<br>- 🤝 I’m looking for help with **advanced system design & AI optimization**<br>- 🌱 I’m currently learning **Agentic AI, RAG pipelines, and distributed systems**<br>- 💬 Ask me about **JavaScript, React, Node.js, AI, and backend architecture**<br>- ⚡ Fun fact: **I build systems that think, not just run**
+- AI-focused full-stack developer building intelligent systems, scalable applications, and real-world products.
+
+I spend most of my time designing and developing AI-powered applications, working across backend systems, frontend interfaces, and machine learning pipelines. My work focuses on practical implementations of LLMs, semantic search, and agent-based workflows to solve complex problems efficiently.
+
+My projects revolve around building production-ready systems such as AI research assistants, real-time applications, and scalable full-stack platforms using modern technologies like Node.js, React, Flutter, and Python.
+
+When I’m not building, I explore advanced AI concepts, system design, and optimization techniques, continuously refining how intelligent systems can be made more reliable, efficient, and useful.
 
 
 # 💻 Tech Stack:
